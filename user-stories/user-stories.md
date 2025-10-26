@@ -1,10 +1,5 @@
 # User Stories for Airbnb Clone Backend
 
-## Introduction
-This document contains user stories derived from the use case diagram. Each user story follows the format: "As a [user role], I want to [action] so that [benefit]."
-
----
-
 ## Authentication & User Management
 
 ### US-001: User Registration
